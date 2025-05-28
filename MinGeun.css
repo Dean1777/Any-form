@@ -1,0 +1,52 @@
+body {
+font-family: Arial, sans-serif;
+margin: 0;
+padding: 0;
+background-color: #f9f9f9;
+text-align: center;
+}
+.card {
+background-color: white;
+margin: 50px auto;
+padding: 20px;
+width: 90%;
+max-width: 400px;
+border: 1px solid #ddd;
+border-radius: 10px;
+}
+.profile {
+width: 100px;
+height: 100px;
+border-radius: 50%;
+}
+h1 {
+margin: 10px 0 5px;
+font-size: 22px;
+}
+.tagline {
+color: gray;
+font-size: 14px;
+margin-bottom: 15px;
+}
+.about, .project, .footer {
+font-size: 14px;
+margin: 15px 0;
+}
+.highlight {
+color: blue;
+font-weight: bold;
+}
+.skills span {
+display: inline-block;
+background-color: #007BFF;
+color: white;
+padding: 5px 10px;
+border-radius: 15px;
+margin: 3px;
+font-size: 13px;
+}
+.footer {
+font-size: 12px;
+color: gray;
+}
+
